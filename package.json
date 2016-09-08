@@ -1,0 +1,22 @@
+{
+  "name": "microsoft-health",
+  "version": "1.0.0",
+  "description": "Track heartrate and other measurements of firefighters.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "health",
+    "band",
+    "microsoft",
+    "firefighter",
+    "safety"
+  ],
+  "author": "WAqid Munawar Volli",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.0",
+    "express": "^4.14.0"
+  }
+}
